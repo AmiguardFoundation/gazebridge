@@ -31,5 +31,9 @@ GazeBridge bridges the gap between physical struggle and digital literacy. Child
 *Built with absolute dedication for the Google Gemma 4 Good Hackathon by the Amiguard Foundation.*
 ---
 ### 🏆 Google Gemma 4 Hackathon Submission
-* **[📖 Read the Official Kaggle Writeup Here]([(https://kaggle.com/competitions/gemma-4-good-hackathon/writeups/gazebridge-the-external-vor)]**
-* **[📊 View the Technical Kaggle Notebook Here][(https://www.kaggle.com/code/svetlanavorobeva/gazebridge-amiguard-foundation)]**
+* **[📖 Read the Official Kaggle Writeup Here](https://kaggle.com/competitions/gemma-4-good-hackathon/writeups/gazebridge-the-external-vor)**
+* 
+* **[📊 View the Technical Kaggle Notebook Here](https://www.kaggle.com/code/svetlanavorobeva/gazebridge-amiguard-foundation)**
+* 
+🌐 **Organization:** [Amiguard Foundation Official Website](https://amiguard.foundation/)
+* 
