@@ -16,11 +16,6 @@ GazeBridge bridges the gap between physical struggle and digital literacy. Child
 2. **The Matryoshka Protocol:** Bypasses broken horizontal saccade pathways by splitting and stacking language vertically into a tiered reveal system (Semantic Shell -> Morphemic Frame -> Core Synthesis).
 3. **The Mustafa Principle:** A manifesto for global health equity, moving clinical-grade neuro-rehabilitation from $10,000 lab hardware into a free mobile browser.
 
-## 🛠️ Repository Structure
-* `index.html` — The clean, zero-dependency implementation of the GazeBridge MVP interface (featuring the IIR low-pass filter for IMU telemetry and sequence triggers).
-* [WHITE_PAPER.md](./WHITE_PAPER.md) — Detailed technical architecture and the "Inhibition-as-Input" logical framework.
-* [BRIEFING.md](./BRIEFING.md) — Multilingual professional overview (English, Русский, Français) for international medical and technical review.
-* [REFERENCES.md](./REFERENCES.md) — Curated scientific bibliography citing foundational research by Prof. John Stein (Oxford), Keith Rayner, and Stanislas Dehaene.
 
 ## 💻 Tech Stack & Metrics
 * **Frontend Runtime:** Pure HTML5, TailwindCSS, Native Web Sensors API (`DeviceMotionEvent`).
