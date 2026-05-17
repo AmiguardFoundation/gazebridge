@@ -3,6 +3,9 @@
 > **Designed for Dan. Open-sourced for the World.** > A $0 digital neuro-orthotic that transforms physical stillness into a key that unlocks reading for neuro-divergent children.
 
 ---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AmiguardFoundation/gazebridge/refs/heads/main/assets/app.gif" width="600" alt="GazeBridge Neural Lock Demo">
+</p>
 
 ## 🚀 The Vision
 GazeBridge bridges the gap between physical struggle and digital literacy. Children with Oculomotor Apraxia (OMA) suffer from a permanent "visual storm" and horizontal visual crowding. By utilizing the smartphone's built-in gyroscope and the computational intelligence of **Google Gemma 4 AI**, GazeBridge creates a "Neural Lock" that stabilizes the visual pathway.
