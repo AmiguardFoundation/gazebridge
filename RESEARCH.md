@@ -2,7 +2,7 @@
 
 Our project is built on the shoulders of giants. GazeBridge is a direct software implementation of established cognitive neuroscience, eye-tracking paradigms, and motor-stabilization protocols. The architecture is mathematically tuned to accommodate the physical constraints of Oculomotor Apraxia (OMA) and related neuro-divergent reading profiles.
 
-### 🛡️ Core Defense Matrix for School Boards & Clinicians
+### 🛡️ Core Defense Matrix 
 
 | Citation | Core Neuroscientific Discovery | Direct GazeBridge Implementation |
 | :--- | :--- | :--- |
