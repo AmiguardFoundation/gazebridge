@@ -2,9 +2,8 @@
 
 > **Designed for Dan. Open-sourced for the World.** > A $0 digital neuro-orthotic that transforms physical stillness into a key that unlocks reading for neuro-divergent children.
 
----
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AmiguardFoundation/gazebridge/refs/heads/main/assets/app.gif" width="600" alt="GazeBridge Neural Lock Demo">
+---<p align="center">
+  <img src="https://raw.githubusercontent.com/AmiguardFoundation/gazebridge/refs/heads/main/assets/app.gif" alt="GazeBridge Neural Lock Demo">
 </p>
 
 ## 🚀 The Vision
