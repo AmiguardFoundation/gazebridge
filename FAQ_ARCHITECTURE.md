@@ -25,3 +25,8 @@ function updateCognitiveLoad() {
         lockWindow = 800;           // Standard baseline window
     }
 }
+Asset Layer,Code Verification Target,Scientific Milestone Proven
+Kaggle Writeup,Clear documentation of Gemma 4's pattern classification role.,Explains the integration of SLM processing with raw sensor telemetry.
+Public Video,High-contrast demonstration showing the transition from is-blurred to clear text.,Visually confirms the 800ms biological reset period.
+Code Repository,Clean implementation of the IIR low-pass filter and asynchronous sequence tracking.,"Proves your production-ready, open-source codebase."
+Live Demo (.html),Verification that the DeviceMotionEvent operates smoothly on mobile device tests.,"Replaces expensive $10,000 lab configurations with a portable browser application."
