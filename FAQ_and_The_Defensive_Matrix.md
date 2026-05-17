@@ -1,8 +1,6 @@
 # 🧪 The Defensive Matrix: Real Engineering Proof
 
 
-# 🧪 The Defensive Matrix: Real Engineering Proof
-
 Let's take a look under the hood of the GazeBridge MVP (`GazeBridge_clean_final.html`) and our professional scientific framework. 
 
 If anyone tries to brush this off as "AI-Washing" or simple "Social Impact Theater," we have the exact code blocks and physiological proofs to completely shut down those arguments. Here is the definitive, technically rigorous defense manual.
